@@ -42,6 +42,7 @@ ul.firstHeader{
     background-color: white;
     box-shadow: 4px 2px 3px 5px rgb(56, 28, 28);
     border-bottom: 3px solid rgb(200, 235, 45);
+    z-index: 10;
 }
 
 li.searchBar{
